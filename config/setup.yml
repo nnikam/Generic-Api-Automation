@@ -1,0 +1,9 @@
+STAGING:
+  URL_PREFIX: https://ci-va2qa-mgmt.pubmatic.com
+
+
+PRODUCTION:
+  URL_PREFIX: https://qaint-va2qa-mgmt.pubmatic.com
+
+
+
